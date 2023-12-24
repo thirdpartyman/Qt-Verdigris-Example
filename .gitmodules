@@ -1,0 +1,3 @@
+[submodule "Qt_Verdigris/verdigris"]
+	path = Qt_Verdigris/verdigris
+	url = https://github.com/woboq/verdigris
